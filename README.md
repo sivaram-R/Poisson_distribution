@@ -70,8 +70,7 @@ else:
 # Output : 
 
 ![2023-04-11 (1)](https://user-images.githubusercontent.com/121165794/231051884-5c6812fd-c619-45dd-9f8b-09190dac1824.png)
-![2023-04-11 (2)](https://user-images.githubusercontent.com/121165794/231051941-0c36cc74-51b3-4049-8368-eeff1b747c3d.png)
-
+![prob](https://github.com/sivaram-R/Poisson_distribution/assets/121165794/89571a79-a10a-4ffa-97b2-6c02e134df05)
 
 # Results
 
